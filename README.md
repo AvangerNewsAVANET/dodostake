@@ -1,0 +1,2 @@
+# dodostake
+staking contract
